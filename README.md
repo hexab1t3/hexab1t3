@@ -1,12 +1,39 @@
 ## Mis Habilidades
-Nivel bajo: Kotlin, Flutter, assembly
-Nivel intermedio: java, python, c, c++
-Nivel avanzado: c#, Lua, cobol
-Frameworks Principales: Asp.Net(MVC), Android Studio, .Net, React
-IDE de poca frecuancia: Workbench, 
-IDE Preferidos: SQL SERVER, Visual Studio, Visual Studio Code
-Otras Tecnologias que no domino pero la uso: llama, MCP, HTML, CSS,
-Docker, Kubernetes
 
+- **Nivel bajo:**
+  - Kotlin
+  - Flutter
+  - Assembly
 
+- **Nivel intermedio:**
+  - Java
+  - Python
+  - C
+  - C++
 
+- **Nivel avanzado:**
+  - C#
+  - Lua
+  - COBOL
+
+- **Frameworks principales:**
+  - ASP.NET (MVC)
+  - .NET
+  - React
+  - Android Studio
+
+- **IDEs de poca frecuencia:**
+  - Workbench
+
+- **IDEs preferidos:**
+  - SQL Server
+  - Visual Studio
+  - Visual Studio Code
+
+- **Otras tecnologías que no domino pero uso:**
+  - Llama
+  - MCP
+  - HTML
+  - CSS
+  - Docker
+  - Kubernetes
