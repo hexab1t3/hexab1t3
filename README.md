@@ -9,12 +9,10 @@
   - Java
   - Python
   - C
-  - C++
 
 - **Nivel avanzado:**
   - C#
   - Lua
-  - COBOL
 
 - **Frameworks principales:**
   - ASP.NET (MVC)
